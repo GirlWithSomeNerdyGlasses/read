@@ -17,9 +17,7 @@
 <img src="https://www.yanderecore.cat/file/bootstrap.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/git.png" height="40px">
 </p>
-<h3>Operation System</h3>
-<h3>Windows 11</h3>
-<h3>Ubuntu 24.04.3 LTS</h3>
+<h3>Operation System: Windows 11, Ubuntu 24.04.3 LTS</h3>
 </div>
 
 
