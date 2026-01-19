@@ -20,7 +20,7 @@
 <h3>Operation System</h3>
 <p style="flex">
 <img src="https://cdn.yanderecore.cat/windows.png" height="40px">
-  
+<img src="https://cdn.yanderecore.cat/linux.png" height="40px">
 </p>
 </div>
 
