@@ -10,8 +10,8 @@
 <p style="flex">
 <img src="https://www.yanderecore.cat/file/python.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/javascript.png" height="40px"/>
-<img src="https://www.yanderecore.cat/file/html.png" height="40px"/>
-<img src="https://www.yanderecore.cat/file/css.png" height="40px"/>
+<img src="https://cdn.yanderecore.cat/html.png" height="40px"/>
+<img src="https://cdn.yanderecore.cat/css.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/Lua.png" height="40px"/>
 </p>
 
