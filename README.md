@@ -1,1 +1,3 @@
-<img src="https://cdn.yanderecore.cat/background.gif" align="center">
+<div align="center">
+<img src="https://cdn.yanderecore.cat/background.gif">
+</div>
