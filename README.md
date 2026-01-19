@@ -20,6 +20,7 @@
 </p>
 <h2>Random Things</h2>
 <h3>Operation System: Windows 11, Ubuntu 24.04.3 LTS</h3>
+<h3>Facts: I'm good at osint (3 years of experience)</h3>
 </div>
 
 
