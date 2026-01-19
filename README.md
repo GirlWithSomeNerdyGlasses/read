@@ -22,7 +22,7 @@
 <h3>I use Windows 11 and Ubuntu 24.04.3 LTS</h3>
 <h3>I'm good at OSINT (I don't abuse)</h3>
 <h3>Learning C for machine learning</h3>
-
+<h3>Got into programming in 2024</h3>
 </div>
 
 
