@@ -6,7 +6,8 @@
   
 # Hello, I'm Asya/Elias.
 ### I'm a 17yo front end developer
-<h2>Here's what I know</h2>
+<h3</h3>
+### Here's what I know
 <p style="flex">
 <img src="https://www.yanderecore.cat/file/python.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/javascript.png" height="40px"/>
