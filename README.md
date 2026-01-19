@@ -19,8 +19,10 @@
 <img src="https://www.yanderecore.cat/file/git.png" height="40px">
 </p>
 <h2>Random Things</h2>
-<h3>Operation System: Windows 11, Ubuntu 24.04.3 LTS</h3>
-<h3>Facts: I also focus on OSINT</h3>
+<h3>I use Windows 11 and Ubuntu 24.04.3 LTS</h3>
+<h3>I'm good at OSINT (I don't abuse)</h3>
+<h3>Learning C for machine learning</h3>
+
 </div>
 
 
