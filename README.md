@@ -17,7 +17,11 @@
 <img src="https://www.yanderecore.cat/file/bootstrap.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/git.png" height="40px">
 </p>
-
+<h3>Operation System</h3>
+<p style="flex">
+<img src="https://cdn.yanderecore.cat/windows.png" height="40px">
+  
+</p>
 </div>
 
 
