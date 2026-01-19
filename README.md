@@ -13,6 +13,8 @@
 <img src="https://cdn.yanderecore.cat/html.png" height="40px"/>
 <img src="https://cdn.yanderecore.cat/css.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/Lua.png" height="40px"/>
+<img src="https://www.yanderecore.cat/file/tailwind.png" height="40px"/>
+<img src="https://www.yanderecore.cat/file/bootstrap.png" height="40px"/>
 </p>
 
 </div>
