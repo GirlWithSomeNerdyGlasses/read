@@ -18,10 +18,8 @@
 <img src="https://www.yanderecore.cat/file/git.png" height="40px">
 </p>
 <h3>Operation System</h3>
-<p style="flex">
-<img src="https://cdn.yanderecore.cat/windows.png" height="40px">
-<img src="https://cdn.yanderecore.cat/linux.png" height="40px">
-</p>
+<h3>Windows 11</h3>
+<h3>Ubuntu 24.04.3 LTS</h3>
 </div>
 
 
