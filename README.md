@@ -1,1 +1,1 @@
-<img src="https://cdn.yanderecore.cat/background.gif">
+<img src="https://cdn.yanderecore.cat/background.gif" height="300px">
