@@ -4,10 +4,9 @@
 
 <div>
   
-<div align="center">
 # Hello, I'm Asya/Elias.
 ### I'm a 17yo front end developer
-</div>
+
 <p style="flex">
 <h3>Here's what I know</h3>
 <img src="https://www.yanderecore.cat/file/python.png" height="40px"/>
