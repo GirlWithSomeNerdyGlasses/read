@@ -4,7 +4,8 @@
 
 <div align="center">
   
-# Asya/Elias
+# Hello, I'm Asya/Elias.
+### I'm a 17yo front end developer
 
 </div>
 
