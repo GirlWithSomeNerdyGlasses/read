@@ -2,7 +2,7 @@
 <img src="https://cdn.yanderecore.cat/background.gif">
 </div>
 
-<div align="center">
+<div>
   
 # Hello, I'm Asya/Elias.
 ### I'm a 17yo front end developer
