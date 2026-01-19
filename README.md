@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <img src="https://cdn.yanderecore.cat/background.gif">
 </div>
 
